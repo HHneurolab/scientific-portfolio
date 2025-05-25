@@ -20,4 +20,4 @@ Chemically engineered agricultural products such as pesticides, insecticides, an
 
 ## Link
 
-[10.4236/jbbs.2024.147012](#) 
+[https://www.scirp.org/pdf/jbbs2024147_13901129.pdf](#) 
