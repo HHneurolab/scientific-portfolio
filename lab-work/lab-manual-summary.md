@@ -13,8 +13,7 @@ I designed and wrote this manual for C. elegans laboratory research Palm Beach A
 5. C. ELEGANS RESEARCH TECHNIQUES
 
 A preview of the manual's cover page and table of contents can be viewed here:
-
-
+[PDF Worm Manual](lab-work/worm-manual.pdf)
 ---
 
 ## 🧠 Contributions
