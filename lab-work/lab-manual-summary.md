@@ -22,4 +22,4 @@ A preview of the manual's cover page and table of contents can be viewed here:
 I contributed to the creation the manual by:
 - Learning and obtainig basic C. elegans protocol from the FAU Stiles-Nicholson Brain Institute Blakely Lab
 - Performing pilot testing of handling and maintenance procedures at my university during a PBAU Liberal Arts and Sciences grant-funded summer internship called Summer UnderGraduate Academic Research (SUGAR)
-- Conducting research and paraphrasing information in the manual for easy understanding by other facutly and students
+- Conducting research and paraphrasing information in the manual for easy understanding by other faculty and students
