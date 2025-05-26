@@ -14,6 +14,7 @@ I designed and wrote this manual for C. elegans laboratory research Palm Beach A
 
 A preview of the manual's cover page and table of contents can be viewed here:
 [PDF Worm Manual](https://github.com/HHneurolab/scientific-portfolio/blob/main/lab-work/worm-manual.pdf)
+
 ---
 
 ## 🧠 Contributions
